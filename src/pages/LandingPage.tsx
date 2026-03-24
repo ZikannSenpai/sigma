@@ -158,7 +158,7 @@ export default function LandingPage() {
             <span className="text-2xl font-black italic">S</span>
           </div>
           <p className="text-[10px] font-black text-black/20 uppercase tracking-[0.5em]">
-            Developed by <span className="text-black">SANN404 FORUM</span>
+            Developed by <span className="text-black">ZIKNYAWDEV</span>
           </p>
         </div>
       </footer>
